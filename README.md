@@ -7,4 +7,6 @@
       1. Implementing the internal structure of RNN and parity bit learning with tensorflow
       2. Text Generation with GRU and Keras 
       3. Sequence Prediction with LSTM (Tensorflow) with Cell state, Forget state, Input state, Hidden state and Output gate
+ - Conditional Models:
+      Conditional GAN and Conditional VAE on MNIST
  

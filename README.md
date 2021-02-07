@@ -11,7 +11,7 @@
       3. Sequence Prediction with LSTM (Tensorflow) with Cell state, Forget state, Input state, Hidden state and Output gate
       
       
- - Conditional Models:
+ - Conditional Models :
       1. Conditional GAN on MNIST
       2. Conditional VAE on MNIST
       

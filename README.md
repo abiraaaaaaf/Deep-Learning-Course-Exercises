@@ -16,7 +16,10 @@
       2. Conditional VAE on MNIST
       
       
- - Tensorflow implementation of Variational Auto Encoder, Generative Adversarial Network, and Adversarial Auto Encoder on MNIST
+ - VAE GAN AAE :
+      1. Tensorflow implementation of Variational Auto Encoder on MNIST
+      2. Tensorflow implementation of Generative Adversarial Network on MNIST
+      3. Tensorflow implementation of Adversarial Auto Encoder on MNIST
  
  
  
